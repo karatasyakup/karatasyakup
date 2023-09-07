@@ -1,4 +1,4 @@
-![image](https://github.com/karatasyakup/karatasyakup/assets/96328655/a7f2c215-9ab5-426a-a945-68941080ee7a)
+![image]()
 <h1 align="center">Hi 👋, I'm Yakup</h1>
 <h3 align="center">A passionate frontend developer from Türkiye.</h3>
 
