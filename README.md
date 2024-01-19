@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏿, I'm Yakup | install : https://gofile.io/d/WlPOhj</h1>
+<h1 align="center">Hi 👋🏿, I'm Yakup</h1
 <h3 align="center">I am a software developer who may be arrested from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karatasyakup&label=Profile%20views&color=0e75b6&style=flat" alt="karatasyakup" /> </p>
